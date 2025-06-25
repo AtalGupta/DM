@@ -38,7 +38,6 @@ P(X₁ = x₁, X₂ = x₂, ..., Xₙ = xₙ) = P(x₁, x₂, ..., xₙ)
 ```
 
 **Chain Rule of Probability:** For any sequence of random variables:
-
 ```
 P(X₁, X₂, ..., Xₙ) = P(X₁) · P(X₂|X₁) · P(X₃|X₁,X₂) · ... · P(Xₙ|X₁,...,Xₙ₋₁)
 ```
@@ -378,14 +377,10 @@ For undergraduate students, this field represents an excellent intersection of t
 
 4. van den Oord, A., et al. (2016). "Pixel Recurrent Neural Networks." *International Conference on Machine Learning*. arXiv:1601.06759.
 
-5. Bishop, C. M. (2006). *Pattern Recognition and Machine Learning*. Springer.
+5. Blei, D. M., Kucukelbir, A., & McAuliffe, J. D. (2017). "Variational Inference: A Review for Statisticians." *Journal of the American Statistical Association*, 112(518), 859-877.
 
-6. Murphy, K. P. (2012). *Machine Learning: A Probabilistic Perspective*. MIT Press.
+6. Song, Y., & Ermon, S. (2019). "Generative Modeling by Estimating Gradients of the Data Distribution." *Advances in Neural Information Processing Systems*. arXiv:1907.05600.
 
-7. Blei, D. M., Kucukelbir, A., & McAuliffe, J. D. (2017). "Variational Inference: A Review for Statisticians." *Journal of the American Statistical Association*, 112(518), 859-877.
+7. Dhariwal, P., & Nichol, A. (2021). "Diffusion Models Beat GANs on Image Synthesis." *Advances in Neural Information Processing Systems*. arXiv:2105.05233.
 
-8. Song, Y., & Ermon, S. (2019). "Generative Modeling by Estimating Gradients of the Data Distribution." *Advances in Neural Information Processing Systems*. arXiv:1907.05600.
-
-9. Dhariwal, P., & Nichol, A. (2021). "Diffusion Models Beat GANs on Image Synthesis." *Advances in Neural Information Processing Systems*. arXiv:2105.05233.
-
-10. Razavi, A., et al. (2019). "Generating Diverse High-Fidelity Images with VQ-VAE-2." *Advances in Neural Information Processing Systems*. arXiv:1906.00446.
+8. Razavi, A., et al. (2019). "Generating Diverse High-Fidelity Images with VQ-VAE-2." *Advances in Neural Information Processing Systems*. arXiv:1906.00446.
