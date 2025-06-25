@@ -6,8 +6,8 @@
 
 <div style="display: flex; flex-direction: column; margin-bottom: 20px; align-items: center;">
   <div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 10px;">
-    <img src="assets/images/zoro.png" height="500px" width="300px" alt="Original reference image" />
-    <img src="assets/images/generated.png" height="500px" width="300px" alt="AI-generated result" />
+    <img src="assets/images/zoro.png" height="500px" width="400px" alt="Original reference image" />
+    <img src="assets/images/generated.png" height="500px" width="400px" alt="AI-generated result" />
   </div>
   <p style="text-align: center; font-style: italic;">
     Left: Original reference image | Right: Image generated using OpenAI with the prompt:
