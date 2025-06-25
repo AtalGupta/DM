@@ -5,7 +5,7 @@
 
 
 <div style="display: flex; flex-direction: column; margin-bottom: 20px; align-items: center;">
-  <div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: center; column-gap: 60px; margin-bottom: 10px;">
     <img src="assets/images/zoro.png" height="500px" width="400px" alt="Original reference image" />
     <img src="assets/images/generated.png" height="500px" width="400px" alt="AI-generated result" />
   </div>
